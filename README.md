@@ -35,8 +35,6 @@ To obtain such auxiliary information, we designed rule templates to extract them
 - Similar to NWIKI, NICE was also split into the training set, the validation set, and the test set by a proportion of 80\%:10\%:10\%.
 
 
-### Dataset Statistics
-
 The statistics of NICE are displayed as follows, where #Train, #Valid and #Test are the sizes of the training set, the validation set and the test set, respectively.
 
 | Dataset | Binary | N-tuple | Overall | Timestamps | Time Interval |
